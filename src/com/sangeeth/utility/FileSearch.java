@@ -19,7 +19,7 @@ public class FileSearch {
 		// Search string
 		String searchString = "browser";
 
-		// File object
+		// File object 
 		File myDirectory = new File(parentDirectory);
 		Map<String, String> myMap = new HashMap<String, String>();
 		Map<String, String> myFinalMap = new HashMap<String, String>();
