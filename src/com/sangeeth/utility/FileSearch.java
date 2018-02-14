@@ -24,7 +24,7 @@ public class FileSearch {
 		Map<String, String> myMap = new HashMap<String, String>();
 		Map<String, String> myFinalMap = new HashMap<String, String>();
 
-		// File Look up
+		// File Look up 
 		if (myDirectory.isDirectory()) {
 			File arr[] = myDirectory.listFiles();
 
